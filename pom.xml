@@ -55,7 +55,7 @@
 						<artifactId>maven-surefire-plugin</artifactId>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>Crossbroser.xml</suiteXmlFile>
+								<suiteXmlFile>Crossbrowser.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
